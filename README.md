@@ -1,6 +1,6 @@
 # GithubFiner
 
->这是一个Github用户搜索器小项目, 使用了context API,useContext, useReducer hooks管理状态
+>这是一个Github用户搜索器小项目, 使用了context API,useContext, useReducer hooks管理状态 <br>
 >此项目用于学习基础React语法, JSX, Context和Hook的使用
 
 ## 项目结构
