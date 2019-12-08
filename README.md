@@ -3,8 +3,9 @@
 >这是一个Github用户搜索器小项目, 使用了context API,useContext, useReducer hooks管理状态 <br>
 >此项目用于学习基础React语法, JSX, Context和Hook的使用
 
-## 项目结构
+预览效果：https://githubfinder3201.netlify.com/
 
+## 项目结构
 ### 文件结构：
 ```
 .
@@ -52,3 +53,4 @@
     |   `-- types.js
     `-- index.js                         //入口文件
 ```
+ 
